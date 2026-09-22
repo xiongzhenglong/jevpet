@@ -5,7 +5,7 @@
 ## 每次开始任务
 
 1. 阅读 `README.md`。
-2. 阅读 `docs/PRODUCT.md`、`docs/ARCHITECTURE.md` 和 `docs/DECISIONS.md`。
+2. 阅读 `docs/PRODUCT.md`、`docs/ARCHITECTURE.md`、`docs/DISCOVERY.md` 和 `docs/DECISIONS.md`。
 3. 阅读 `docs/HANDOFF.md`，确认当前目标与下一步。
 4. 运行 `git status --short` 和 `git log -5 --oneline`，不要覆盖用户未提交的改动。
 5. 只处理当前目标；如果目标会改变产品范围或核心架构，先记录问题，不要自行扩张范围。

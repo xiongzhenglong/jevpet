@@ -11,9 +11,12 @@ $requiredFiles = @(
     '.env.example',
     'docs/PRODUCT.md',
     'docs/ARCHITECTURE.md',
+    'docs/DISCOVERY.md',
     'docs/ROADMAP.md',
     'docs/DECISIONS.md',
-    'docs/HANDOFF.md'
+    'docs/HANDOFF.md',
+    'assets/references/jevpet-room-concept-v1.png',
+    'assets/references/README.md'
 )
 
 Write-Host 'Checking required project files...'

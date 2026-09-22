@@ -13,6 +13,8 @@
 - 定义 Jev → Action Registry → Validator → Executor 的架构边界。
 - 确定 Flutter + Flame；动画资产在序列帧与 Rive 之间做小型验证后决定。
 - 添加路线图、决策记录、环境模板和提交前检查脚本。
+- 保存第一张房间/宠物概念图及其来源、尺寸和哈希记录。
+- 新增 `docs/DISCOVERY.md`，沉淀 Jev 调研、早期方案演化和视觉讨论。
 
 ## 下一步（按顺序）
 
@@ -43,7 +45,8 @@
 
 ```text
 阅读 AGENTS.md、docs/PRODUCT.md、docs/ARCHITECTURE.md、
-docs/DECISIONS.md 和 docs/HANDOFF.md。检查 git status 和最近提交，
+docs/DISCOVERY.md、docs/DECISIONS.md 和 docs/HANDOFF.md。
+检查 git status 和最近提交，
 从“下一步”第一项开始完成 M1 的最小垂直切片。不要接入 Jev，
 先保证点击后的本地即时反馈可运行、可测试。停止前更新本文件。
 ```
